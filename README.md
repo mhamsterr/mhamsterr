@@ -1,4 +1,4 @@
-###  Hello, user!
+###  Hello, user! Welcome to my github page.
  
 <!--
 **mhamsterr/mhamsterr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
