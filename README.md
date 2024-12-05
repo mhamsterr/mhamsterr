@@ -1,7 +1,5 @@
-###  Hello, user! Welcome to my github page.
+![heylookakitten.png](https://mhamster.xyz/media/heylookakitten.png)
 
-![](https://api.ghprofile.me/view?username=mhamsterr&style=for-the-badge&color=e9896a)
- 
 <!--
 **mhamsterr/mhamsterr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
